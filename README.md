@@ -54,8 +54,6 @@ Congratulations on Finishing Build Your own ChatBot Course:  <br/>
 <img src="https://i.imgur.com/XvkiFNo.jpeg" height="80%" width="80%" alt="Image showing Congratulations on Finishing Build Your own ChatBot Course"/>
 <br />
 <br />
-Certificate Of Completion:  <br/>
-<img src="https://i.imgur.com/URBwjXP.jpeg" height="80%" width="80%" alt="Image showing Certificate Of Completion"/>
-  <br />
+
 <br />
 </p>
